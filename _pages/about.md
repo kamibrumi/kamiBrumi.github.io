@@ -15,11 +15,10 @@ redirect_from:
 
 👩🏻‍🎓 I graduated with a B.S. in Theoretical Mathematics from the [University of Maryland in College Park](https://umd.edu/), where I performed research within the [Graphics and Visual Informatics Laboratory (GVIL)](https://www.cs.umd.edu/gvil/). There, I was advised by [Amitabh Varshney](https://www.cs.umd.edu/~varshney/).
 
-🤓 Both before and after starting my PhD, I collaborated with professors, scientists, engineers and program managers at [Harvard University](https://www.harvard.edu/), [Worcester Polytechnic Institute (WPI)](https://www.wpi.edu/), [Tableau Research/Salesforce](https://www.tableau.com/research), [Alife Health](https://www.alifehealth.com/), and [Bose Corporation](https://www.bose.com/home).
+🤓 Both before and after starting my PhD, I worked for [Tableau Research/Salesforce](https://www.tableau.com/research) (Research Scientist Intern), [Alife Health](https://www.alifehealth.com/) (Data Science Contractor), and [Bose Corporation](https://www.bose.com/home) (Software Engineering Intern), and I collaborated with professors, research scientists and program managers at the [National Revenewable Energy Laboratory](https://www.nrel.gov/), the [MIT Lincoln Laboratory](https://www.ll.mit.edu/), [Harvard University](https://www.harvard.edu/), and [Worcester Polytechnic Institute](https://www.wpi.edu/).
 
 🌺 Outside academia, I enjoy picking up new hobbies, indulging in Art, Exercising, and Reading.
 
 News
 ======
 📝 `04-16-24` Our paper, [A Typology of Decision-Making Tasks for Visualization](https://arxiv.org/abs/2404.08812) is now available on ArXiV!
-
