@@ -22,3 +22,5 @@ redirect_from:
 News
 ======
 📝 `04-16-24` Our paper, [A Typology of Decision-Making Tasks for Visualization](https://arxiv.org/abs/2404.08812) is now available on ArXiV!
+📝 `04-10-24` Our paper, [DimBridge: Interactive Explanation of Visual Patterns in Dimensionality Reductions with Predicate Logic](https://arxiv.org/abs/2404.07386) is now available on ArXiV!
+📝 `06-06-23` Our paper, [Knowledge Graphs in Practice: Characterizing their Users, Challenges, and Visualization Opportunities](https://ieeexplore.ieee.org/abstract/document/10360419) got accepted to IEEE Vis'23!
