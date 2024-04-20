@@ -25,8 +25,8 @@ News
 
 📝 `04-10-24` Our paper, [DimBridge: Interactive Explanation of Visual Patterns in Dimensionality Reductions with Predicate Logic](https://arxiv.org/abs/2404.07386) is now available on ArXiV!
 
-📝 `03-28-24` The report I helped putting together for the Dagstuhl seminar is [now available to read on the seminar's website](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.13.9.116)!
+📝 `03-28-24` The report I helped putting together for the Dagstuhl seminar is [now available on the seminar's website](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.13.9.116)!
 
 🎆 `06-06-23` Our paper, [Knowledge Graphs in Practice: Characterizing their Users, Challenges, and Visualization Opportunities](https://ieeexplore.ieee.org/abstract/document/10360419) got accepted to IEEE Vis'23!
 
-🏆 `09-11-23` I had the opportunity to be invited and participate in the [Dagstuhl Seminar "Human-Centered Approaches for Provenance in Automated Data Science"](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23372) where I learned and connected with Visualization and AutoML experts from a variety of universities and industries.
+🏆 `09-11-23` I had the opportunity to be invited and participate in the [Dagstuhl Seminar "Human-Centered Approaches for Provenance in Automated Data Science"](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23372) where I learned from and connected with Visualization and AutoML experts from a variety of universities and industries.
