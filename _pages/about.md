@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍💻 I'm a PhD Candidate working with [Remco Chang](https://www.cs.tufts.edu/~remco/) in the Visual Analytics Lab @ Tufts University (VALT).
+👩🏻‍💻 I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.cs.tufts.edu/~remco/) in the Visual Analytics Lab @ Tufts University (VALT).
 
 📝 In my research, I am challenging conventional paradigms in visualization design that tend to focus on specialized solutions tailored to individual users' data and tasks within specific domains. My domains of interest are Decision-Making and Healthcare.
 
