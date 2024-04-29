@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍💻 I'm a PhD Candidate at Tufts University.
+👩🏻‍💻 I'm a PhD Candidate working with [Remco Chang](https://www.cs.tufts.edu/~remco/) in the Visual Analytics Lab @ Tufts University (VALT).
 
-🎆 I work with [Remco Chang](https://www.cs.tufts.edu/~remco/) in the Visual Analytics Lab (VALT).
-
-📝 In my research, I am challenging conventional paradigms in visualization design that tend to focus on specialized solutions tailored to individual users' data and tasks within specific domains. Some domains of interest are Decision-Making and Healthcare.
+📝 In my research, I am challenging conventional paradigms in visualization design that tend to focus on specialized solutions tailored to individual users' data and tasks within specific domains. My domains of interest are Decision-Making and Healthcare.
 
 👩🏻‍🎓 I graduated with a B.S. in Theoretical Mathematics from the [University of Maryland in College Park](https://umd.edu/), where I performed research within the [Graphics and Visual Informatics Laboratory (GVIL)](https://www.cs.umd.edu/gvil/). There, I was advised by [Amitabh Varshney](https://www.cs.umd.edu/~varshney/).
 
