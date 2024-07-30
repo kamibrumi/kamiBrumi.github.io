@@ -21,6 +21,10 @@ News
 ======
 🏆 `07-30-24` Got accepted to the [IEEE Visusalization 2024 Doctoral Colloquium](https://ieeevis.org/year/2022/info/call-participation/doctoral-colloquium)!
 
+🏆 `07-24-24` Presented my paper [A Typology of Decision-Making Tasks for Visualization](https://arxiv.org/abs/2404.08812) in the [VCG lab at Harvard University](https://vcg.seas.harvard.edu).
+
+📝 `07-15-24` Our paper, [DimBridge: Interactive Explanation of Visual Patterns in Dimensionality Reductions with Predicate Logic](https://arxiv.org/abs/2404.07386) got accepted to to IEEE Visualization 2024, see you all in Tampa:D
+
 🚀 `04-23-24` Today's my first day as a Visiting PhD Student at Harvard University in Professor Hanspeter Pfister's lab.
 
 📝 `04-16-24` Our paper, [A Typology of Decision-Making Tasks for Visualization](https://arxiv.org/abs/2404.08812) is now available on ArXiV!
