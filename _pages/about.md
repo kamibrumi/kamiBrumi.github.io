@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.cs.tufts.edu/~remco/) in the Visual Analytics Lab @ Tufts University (VALT), a visiting PhD student in the [Visual Computing Group @ Harvard University](https://vcg.seas.harvard.edu/), and the co-founder and organizer of [Boston Vis](https://bostonvis.org/).
+I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.cs.tufts.edu/~remco/) in the Visual Analytics Lab @ Tufts University (VALT), a research affiliate in the [MIT Visualization Group](https://vis.csail.mit.edu/), a visiting PhD student in the [Visual Computing Group @ Harvard University](https://vcg.seas.harvard.edu/), and the co-founder and organizer of [Boston Vis](https://bostonvis.org/).
 
 In my research, I challenge traditional approaches to visualization design that often focus on highly specialized solutions for specific users, data, and tasks. Instead, I aim to transform the visualization design process into a systematic mapping from a problem space to a design space, particularly within the domain of decision-making. By applying qualitative research methods, I have found that my framework effectively describes decision-making problems, enables comparisons, and supports informed design decisions.
 
@@ -15,10 +15,12 @@ I graduated with a B.S. in Theoretical Mathematics from the [University of Maryl
 
 Both before and after starting my PhD, I worked for [Tableau Research/Salesforce](https://www.tableau.com/research) (Research Scientist Intern), [Alife Health](https://www.alifehealth.com/) (Data Science Contractor), and [Bose Corporation](https://www.bose.com/home) (Software Engineering Intern), and I collaborated with professors, research scientists and program managers at the [National Revenewable Energy Laboratory](https://www.nrel.gov/), the [MIT Lincoln Laboratory](https://www.ll.mit.edu/), [Harvard University](https://www.harvard.edu/), and [Worcester Polytechnic Institute](https://www.wpi.edu/).
 
-Outside academia, I like picking up new hobbies, indulging in Art, Sports, and Reading.
+Outside academia, I like rock climbing, drawing frame-by-frame animations, and reading.
 
 News
 ======
+🚀 `11-07-25` I'll be presenting my paper [A Typology of Decision-Making Tasks for Visualization](https://ieeexplore.ieee.org/abstract/document/11010987) at [IEEE VIS'25]([https://bostonvis.org/](https://ieeevis.org/year/2025/welcome))! Let's grab a coffee together in Vienna! 🇦🇹
+
 🏆 `08-25-24` Founded and started organizing [Boston Vis](https://bostonvis.org/), an emerging alliance of university- and industry-based Visualization researchers in the greater Boston Area.
 
 🏆 `08-14-24` Gave a tutorial on "Chat with your research papers using LLMs for free" at the Boston Vis PhD Summer School at Northeastern. [Tutorial](https://colab.research.google.com/drive/1qZP8EfWsk1R820NvTT2nZOdHxBnJQOpV?usp=drive_link) [Extra Resources on LLMs for "chatting with your docs"](https://docs.google.com/document/d/1tIAUJYTjM8_DOr3AXWhFO_Ja-HSnC3elPpAcoaEU_1k/edit?usp=drive_link)
