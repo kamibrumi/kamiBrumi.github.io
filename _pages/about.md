@@ -9,6 +9,8 @@ redirect_from:
 
 I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.cs.tufts.edu/~remco/) in the Visual Analytics Lab @ Tufts University (VALT), a research affiliate in the [MIT Visualization Group](https://vis.csail.mit.edu/), a research fellow in the [Visual Computing Group @ Harvard University](https://vcg.seas.harvard.edu/), and the co-founder and organizer of [Boston Vis](https://bostonvis.org/).
 
+🎆 Excited to share that I’ll be on the job market for Fall 2026! I’m seeking opportunities as a research scientist or in a tenure-track faculty position at a U.S. university. Always happy to chat if you’re hiring or have advice to share. 🎆
+
 In my research, I challenge traditional approaches to visualization design that often focus on highly specialized solutions for specific users, data, and tasks. Instead, I aim to transform the visualization design process into a systematic mapping from a problem space to a design space, particularly within the domain of decision-making. By applying qualitative research methods, I have found that my framework effectively describes decision-making problems, enables comparisons, and supports informed design decisions.
 
 I graduated with a B.S. in Theoretical Mathematics from the [University of Maryland in College Park](https://umd.edu/), where I performed research within the [Graphics and Visual Informatics Laboratory (GVIL)](https://www.cs.umd.edu/gvil/). There, I was advised by [Amitabh Varshney](https://www.cs.umd.edu/~varshney/).
