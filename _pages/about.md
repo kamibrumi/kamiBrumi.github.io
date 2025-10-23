@@ -19,7 +19,8 @@ Outside academia, I like rock climbing, drawing frame-by-frame animations, and r
 
 News
 ======
-🚀 `11-07-25` I'll be presenting my paper [A Typology of Decision-Making Tasks for Visualization](https://ieeexplore.ieee.org/abstract/document/11010987) at [IEEE VIS'25]([https://bostonvis.org/](https://ieeevis.org/year/2025/welcome))! Let's grab a coffee together in Vienna! 🇦🇹
+
+🚀 `11-07-25` Excited to share that I’ll be in Vienna 🇦🇹 for [IEEE VIS'25](https://ieeevis.org/year/2025/welcome) presenting my paper [A Typology of Decision-Making Tasks for Visualization](https://ieeexplore.ieee.org/abstract/document/11010987). If you’re attending, let’s chat!
 
 🏆 `08-25-24` Founded and started organizing [Boston Vis](https://bostonvis.org/), an emerging alliance of university- and industry-based Visualization researchers in the greater Boston Area.
 
