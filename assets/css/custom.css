@@ -1,0 +1,6 @@
+/* Center the profile image rendered by Blowfish author/home layouts. */
+img[src*="profile_kami"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
