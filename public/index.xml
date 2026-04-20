@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camelia DB on Camelia D.B.</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Camelia DB on Camelia D.B.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>camelia_daniela.brumar@tufts.edu (Camelia D. Brumar)</managingEditor>
+    <webMaster>camelia_daniela.brumar@tufts.edu (Camelia D. Brumar)</webMaster>
+    <copyright>© 2026 Camelia D. Brumar</copyright>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>camelia_daniela.brumar@tufts.edu (Camelia D. Brumar)</author>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD Candidate in Computer Science working with &lt;a href=&#34;https://www.cs.tufts.edu/~remco/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Remco Chang&lt;/a&gt; in the Visual Analytics Lab @ Tufts University (VALT), a visiting PhD student in the &lt;a href=&#34;https://vcg.seas.harvard.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Visual Computing Group @ Harvard University&lt;/a&gt;, and the co-founder and organizer of &lt;a href=&#34;https://bostonvis.org/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Boston Vis&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
