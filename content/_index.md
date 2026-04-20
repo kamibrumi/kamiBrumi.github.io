@@ -1,6 +1,6 @@
 ---
 title: "Camelia DB"
-description: "Visssss Researcher"
+description: "Data Visualization Researcher"
 ---
 
 <div style="display: flex; gap: 1.5rem; margin-bottom: 2rem; justify-content: center;">
