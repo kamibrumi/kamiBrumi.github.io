@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Camelia D.B."
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "Data Visualization Researcher"
+dateFormat = "2 January 2006"
+
+  [params.author]
+  name = "Camelia D. Brumar"
+  image = "profile_kami.jpg"
+  headline = "Data Visualization Researcher"
+  bio = "Data Visualization Researcher"
+
+["params.author"]
+bio = "I am a Data Visualization Researcher!"
+name = "Camelia D. Brumar"
+image = "profile_kami.jpg"
+email = "camelia_daniela.brumar@tufts.edu"
