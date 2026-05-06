@@ -16,6 +16,11 @@
   weight = 20
 
 [[main]]
+  name = "Projects"
+  pageRef = "/projects/"
+  weight = 25
+
+[[main]]
   name = "CV"
   url = "/files/cv.pdf"
   weight = 30
