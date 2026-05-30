@@ -21,6 +21,10 @@ I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.c
 
 {{< timeline >}}
 
+{{< timelineItem icon="star" header="Tutorial Acceptance" badge="2026" subheader="EuroVIS Tutorials" md=true >}}
+Our tutorial, "[From Decisions to Designs: A Hands-On Tutorial with the Typology of Decision-Making Tasks](/files/Decision_Making_Typology_Tutorial_CRC.pdf)," got accepted at IEEE VIS'26!
+{{< /timelineItem >}}
+
 {{< timelineItem icon="check" header="Talk" badge="04-17-26" subheader="Talk at Stony Brook" >}}
 Gave a talk in the Computer Science Department at Stony Brook. Thank you Klaus Mueller for hosting me!
 {{< /timelineItem >}}
