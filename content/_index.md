@@ -22,7 +22,7 @@ I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.c
 {{< timeline >}}
 
 {{< timelineItem icon="star" header="Tutorial Acceptance" badge="05-26" subheader="IEEE VIS Tutorials" md=true >}}
-Our tutorial, "[From Decisions to Designs: A Hands-On Tutorial with the Typology of Decision-Making Tasks](files/tutorial_vis26.pdf)," got accepted at IEEE VIS'26!
+Our tutorial, "[From Decisions to Designs: A Hands-On Tutorial with the Typology of Decision-Making Tasks](/files/tutorial_vis26.pdf)," got accepted at IEEE VIS'26!
 {{< /timelineItem >}}
 
 {{< timelineItem icon="check" header="Talk" badge="04-17-26" subheader="Talk at Stony Brook" >}}
