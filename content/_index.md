@@ -21,10 +21,14 @@ I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.c
 
 {{< timeline >}}
 
-{{< timelineItem icon="star" header="Conference" badge="06-26" subheader="New Presented my Tutorial @ EuroVis'26!" md=true >}}
+{{< timelineItem icon="graduation-cap" header="Started as a PhD Reserach Intern" badge="06-26" subheader="Lawrence Berkeley National Laboratory" md=true >}}
+I will be focusing on network analysis and data visualization to support the scientific user community. My work involves modeling user connections and community structures, as well as developing interactive tools to enhance user engagement. The insights gained from my research will inform strategic planning and contribute to technical publications.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Conference" badge="06-26" subheader="Presented my Tutorial @ EuroVis'26!" md=true >}}
 ![EuroVis 2026 trip](/img/26eurovis.jpeg)
 
-Had a great time teaching people how to use my Typology of Decision-Making Tasks for Visualization. Participants sketched decision-making diagrams and prototyped decision-support visualizations.
+Had a great time teaching visualization designers how to use my Typology of Decision-Making Tasks for Visualization. Participants sketched decision-making diagrams and prototyped decision-support visualizations.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="star" header="Tutorial Acceptance" badge="05-26" subheader="IEEE VIS Tutorials" md=true >}}
@@ -69,7 +73,7 @@ Presented my paper [A Typology of Decision-Making Tasks for Visualization](https
 Our paper, [DimBridge: Interactive Explanation of Visual Patterns in Dimensionality Reductions with Predicate Logic](https://arxiv.org/abs/2404.07386) got accepted to to IEEE Visualization 2024, see you all in Tampa:D
 {{< /timelineItem >}}
 
-{{< timelineItem icon="graduation-cap" header="Started as a Research Fellow" badge="04-23-24" subheader="Harvard University" md=true >}}
+{{< timelineItem icon="graduation-cap" header="Started as a Research Fellow" badge="04-24" subheader="Harvard University" md=true >}}
 Today's my first day as a Research Fellow at Harvard University in Professor Hanspeter Pfister's lab.
 {{< /timelineItem >}}
 
