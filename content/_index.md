@@ -21,6 +21,12 @@ I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.c
 
 {{< timeline >}}
 
+{{< timelineItem icon="star" header="Conference" badge="11-25" subheader="New Presented my Tutorial @ EuroVis'26!" md=true >}}
+![EuroVis 2026 trip](/img/26eurovis.jpeg)
+
+Had a great time teaching people how to use my Typology of Decision-Making Tasks for Visualization. Participants sketched decision-making diagrams and prototyped decision-support visualizations.
+{{< /timelineItem >}}
+
 {{< timelineItem icon="star" header="Tutorial Acceptance" badge="05-26" subheader="IEEE VIS Tutorials" md=true >}}
 Our tutorial, "[From Decisions to Designs: A Hands-On Tutorial with the Typology of Decision-Making Tasks](/files/tutorial_vis26.pdf)," got accepted at IEEE VIS'26!
 {{< /timelineItem >}}
