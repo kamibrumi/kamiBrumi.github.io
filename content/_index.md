@@ -21,7 +21,7 @@ I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.c
 
 {{< timeline >}}
 
-{{< timelineItem icon="star" header="Conference" badge="11-25" subheader="New Presented my Tutorial @ EuroVis'26!" md=true >}}
+{{< timelineItem icon="star" header="Conference" badge="06-26" subheader="New Presented my Tutorial @ EuroVis'26!" md=true >}}
 ![EuroVis 2026 trip](/img/26eurovis.jpeg)
 
 Had a great time teaching people how to use my Typology of Decision-Making Tasks for Visualization. Participants sketched decision-making diagrams and prototyped decision-support visualizations.
