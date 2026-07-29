@@ -21,6 +21,10 @@ I'm a PhD Candidate in Computer Science working with [Remco Chang](https://www.c
 
 {{< timeline >}}
 
+{{< timelineItem icon="graduation-cap" header="Social Events Chair @ IEEE VIS" badge="07-26" subheader="Boston" md=true >}}
+I will be serving as a Social Events Chair at VIS this year! Feel free to send me suggestions of social things you would like to see organized at the conference.
+{{< /timelineItem >}}
+
 {{< timelineItem icon="graduation-cap" header="Started as a PhD Reserach Intern" badge="06-26" subheader="Lawrence Berkeley National Laboratory" md=true >}}
 I will be focusing on network analysis and data visualization to support the scientific user community. My work involves modeling user connections and community structures, as well as developing interactive tools to enhance user engagement. The insights gained from my research will inform strategic planning and contribute to technical publications.
 {{< /timelineItem >}}
