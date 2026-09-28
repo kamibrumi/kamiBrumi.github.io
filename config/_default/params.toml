@@ -1,6 +1,6 @@
 colorScheme = "fire"
-defaultAppearance = "light"
-autoSwitchAppearance = true
+defaultAppearance = "dark"
+autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 firebase = { }
