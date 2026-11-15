@@ -4,3 +4,61 @@ img[src*="profile_kami"] {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* -- Portfolio grid: one square tile per project -- */
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.75rem;
+}
+
+.portfolio-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  border: 1px solid rgb(var(--color-neutral-200));
+  background: rgb(var(--color-neutral-50));
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.dark .portfolio-card {
+  border-color: rgb(var(--color-neutral-700));
+  background: rgb(var(--color-neutral-800));
+}
+.portfolio-card:hover,
+.portfolio-card:focus-visible {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25);
+}
+
+.portfolio-thumb {
+  aspect-ratio: 1 / 1;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem;
+}
+.portfolio-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  margin: 0;
+}
+
+.portfolio-body {
+  padding: 1rem 1.1rem 1.25rem;
+}
+.portfolio-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 0.5rem;
+  transition: color 0.2s ease;
+}
+.portfolio-desc {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0;
+}

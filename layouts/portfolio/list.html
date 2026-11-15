@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <header>
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  </header>
+
+  {{ with .Content }}
+    <section class="mt-4 prose dark:prose-invert max-w-prose">{{ . }}</section>
+  {{ end }}
+
+  <section class="portfolio-grid mt-8 mb-10">
+    {{ range .Pages.ByWeight }}
+      {{ $href := .Params.link | default .RelPermalink }}
+      {{ $external := hasPrefix $href "http" }}
+      <a class="portfolio-card group" href="{{ $href }}"{{ if $external }} target="_blank" rel="noopener"{{ end }}>
+        <div class="portfolio-thumb">
+          {{ with .Resources.GetMatch "feature*" }}
+            {{ $img := .Resize "800x" }}
+            <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="" loading="lazy">
+          {{ end }}
+        </div>
+        <div class="portfolio-body">
+          <h2 class="portfolio-title text-neutral-900 dark:text-neutral group-hover:text-primary-600 dark:group-hover:text-primary-400">{{ .Title }}</h2>
+          {{ with .Summary }}<p class="portfolio-desc text-neutral-600 dark:text-neutral-400">{{ . }}</p>{{ end }}
+        </div>
+      </a>
+    {{ end }}
+  </section>
+{{ end }}
